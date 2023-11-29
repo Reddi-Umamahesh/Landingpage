@@ -75,6 +75,7 @@ header .main img{
     padding: 0;
     color: #f9faf8;
     border-radius: 6px;
+    cursor: pointer;
 }
 .reviews{
     position: absolute;
@@ -191,4 +192,7 @@ footer{
     justify-content: center;
     align-items: center;
     color: #e5e7eb;
+}
+.button:hover{
+    
 }
